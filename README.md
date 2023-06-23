@@ -1,4 +1,4 @@
-# Project Kassenzetteln / Receipt
+Messwerten / Measurement 
 
 
 ## Table of Contents
@@ -12,41 +12,46 @@
 
 English:
 
-The project is a program that calculates the total price of a gaming PC, taking into account the net price, discount, and VAT (value-added tax). The user inputs the net price and discount percentage, and the program calculates the discounted net price, VAT amount, and total price (net price + VAT). The program then displays a detailed receipt with the breakdown of VAT, net price, discount, and total price.
+The code is a program for analyzing measurement data. It generates a set of random values and provides options to calculate statistical measures such as minimum, maximum, median, range, mean, and standard deviation. Users can select the desired analysis from a menu, and the program displays the corresponding result.
 
 Deutsch:
 
-Das Projekt ist ein Programm, das den Gesamtpreis eines Gaming-PCs berechnet und dabei den Nettopreis, den Rabatt und die Mehrwertsteuer berücksichtigt. Der Benutzer gibt den Nettopreis und den Rabattprozentsatz ein, und das Programm berechnet den rabattierten Nettopreis, den Mehrwertsteuerbetrag und den Gesamtpreis (Nettopreis + Mehrwertsteuer). Anschließend zeigt das Programm eine detaillierte Quittung mit der Aufschlüsselung von Mehrwertsteuer, Nettopreis, Rabatt und Gesamtpreis an.
+Der Code ist ein Programm zur Analyse von Messdaten. Es generiert eine Reihe von zufälligen Werten und bietet Optionen zur Berechnung statistischer Kennzahlen wie Minimum, Maximum, Median, Spannweite, Mittelwert und Standardabweichung. Benutzer können die gewünschte Analyse aus einem Menü auswählen, und das Programm zeigt das entsprechende Ergebnis an.
 
 ## Features
 
 English:
 
-- Input: User can enter the net price of the gaming PC.
-- Input: User can enter the discount percentage for the gaming PC.
-- Calculation: Calculate the discounted net price based on the entered discount percentage.
-- Calculation: Calculate the VAT (value-added tax) amount on the net price.
-- Calculation: Calculate the total price by adding the discounted net price and VAT amount.
-- Display: Show the total price of the gaming PC.
-- Display: Present a detailed receipt with the breakdown of VAT, net price, discount, and total price.
-- Error Handling: Handle potential input errors and provide appropriate error messages.
+- Generate a series of random values
+- Calculate the minimum value in the dataset
+- Calculate the maximum value in the dataset
+- Calculate the median value of the dataset
+- Calculate the range of the dataset
+- Calculate the mean (average) value of the dataset
+- Calculate the standard deviation of the dataset
+- Display the complete dataset
 
 German (Deutsch):
 
-- Eingabe: Benutzer kann den Nettopreis des Gaming-PCs eingeben.
-- Eingabe: Benutzer kann den Rabattprozentsatz für den Gaming-PC eingeben.
-- Berechnung: Berechnung des rabattierten Nettopreises basierend auf dem eingegebenen Rabattprozentsatz.
-- Berechnung: Berechnung des Mehrwertsteuerbetrags auf Basis des Nettopreises.
-- Berechnung: Berechnung des Gesamtpreises durch Addition des rabattierten Nettopreises und des Mehrwertsteuerbetrags.
-- Anzeige: Anzeige des Gesamtpreises des Gaming-PCs.
-- Anzeige: Darstellung einer detaillierten Quittung mit Aufschlüsselung von Mehrwertsteuer, Nettopreis, Rabatt und Gesamtpreis.
-- Fehlerbehandlung: Behandlung potenzieller Eingabefehler und Anzeige entsprechender Fehlermeldungen.
+- Generierung einer Serie von zufälligen Werten
+- Berechnung des minimalen Werts im Datensatz
+- Berechnung des maximalen Werts im Datensatz
+- Berechnung des Medianwerts des Datensatzes
+- Berechnung des Wertebereichs (Spannweite) des Datensatzes
+- Berechnung des Durchschnitts (Mittelwert) des Datensatzes
+- Berechnung der Standardabweichung des Datensatzes
+- Anzeige des vollständigen Datensatzes
 
 ## Technologies Used
 
 - C++ Console
 
 ## Screenshots
-![image](https://github.com/KOTTG4/Projekt/assets/116221777/fddc4399-3524-464d-b33f-2d3a866138ab)
+
+![image](https://github.com/KOTTG4/Measurement/assets/116221777/4f7c771b-67ed-4e1e-9d82-73bd5d8a94a3)
+![image](https://github.com/KOTTG4/Measurement/assets/116221777/2dc4f452-ff19-49de-bd61-1aef76879e69)
+
+
+
 
 
