@@ -1,0 +1,5 @@
+﻿  messwerte.cpp
+\\tsclient\f\projekt woche\aps\01_messwerte\01_messwerte\messwerte.cpp(74): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+messwerte.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /OPT:LBR ignoriert.
+  01_Messwerte.vcxproj -> \\tsclient\F\Projekt Woche\APS\01_Messwerte\Debug\01_Messwerte.exe
+  01_Messwerte.vcxproj -> \\tsclient\F\Projekt Woche\APS\01_Messwerte\Debug\01_Messwerte.pdb (Full PDB)
