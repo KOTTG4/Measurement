@@ -6,7 +6,6 @@ Messwerten / Measurement
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 
 ## Project Overview
 
@@ -48,8 +47,6 @@ German (Deutsch):
 
 ## Screenshots
 
-![image](https://github.com/KOTTG4/Measurement/assets/116221777/4f7c771b-67ed-4e1e-9d82-73bd5d8a94a3)
-![image](https://github.com/KOTTG4/Measurement/assets/116221777/2dc4f452-ff19-49de-bd61-1aef76879e69)
 
 
 
